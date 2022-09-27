@@ -1,0 +1,10 @@
+.productitem {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border: 1px solid blue;
+}
+.item {
+    border: 2px solid green;
+    margin: 10px;
+}
